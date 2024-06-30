@@ -8,7 +8,6 @@ I really want to dive into learning JavaScript in order to create interactive an
 ***
 ### Skills and profiency
 HTML, CSS
-
 ***
 ### Code example:
 ```
