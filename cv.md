@@ -1,6 +1,4 @@
-# rs-school cv
-***
-## Arthur Hurinovich
+# Arthur Hurinovich
 ***
 ### *Контакты для связи:
     +e-mail: jsemenborodas@gmail.com
