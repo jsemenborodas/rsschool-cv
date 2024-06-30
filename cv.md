@@ -1,6 +1,6 @@
 # Arthur Hurinovich
 ***
-### Контакты для связи:
+### Contacts:
     +e-mail: jsemenborodas@gmail.com
 ***
 ### About myself
