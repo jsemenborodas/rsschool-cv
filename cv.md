@@ -1,7 +1,7 @@
 # Arthur Hurinovich
 ***
 ### Contacts:
-    e-mail: jsemenborodas@gmail.com
+e-mail: jsemenborodas@gmail.com
 ***
 ### About myself
 I really want to dive into learning JavaScript in order to create interactive and dynamic websites.
