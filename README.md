@@ -1,1 +1,0 @@
-https://jsemenborodas.github.io/rsschool-cv/cv
