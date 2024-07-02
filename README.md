@@ -1,1 +1,1 @@
-https://jsemenborodas.github.io/rsschool-cv/cv
+https://jsemenborodas.github.io/rsschool-cv
