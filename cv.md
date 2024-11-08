@@ -1,11 +1,38 @@
 # JSemenBorodaS
 ## contancts: 
-* ## telegram: @xisuy
-* ## gmail: jsemenborodas@gmail.com
+* ## [telegram](t.me/Xisuy)
+* ## [gmail](jsemenborodas@gmail.com)
 * ## discord: jsemenborodas_99601
-Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
-Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
-Code Examples
-Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
-Education (including completed courses and training)
-English Language (your English proficiency level, and if you had language practice, describe it)
+### My goals on this course is develop my hard and soft skills. 
+
+### **_Skills_**: 
+* ### JavaScript
+* ### CSS
+* ### HTML
+* ### GIT
+
+### **_Code examples_**: 
+`module.exports = function reverse (n) {`
+
+  `n = String(Math.abs(n));`
+
+  `let n2 = '';`
+
+  `for(let i = n.length-1; i >= 0; i--) {`
+    `n2 += n[i];`
+`}`
+
+  `return(Number(n2));`
+
+`}`
+
+
+### **_Work Experience_**: [shelter](https://jsemenborodas.github.io/shelter-private/shelter/)
+### _Education_: 
+* ### *Rs-school stage-0* 
+* ### _Some js-courses_
+
+### English language level: **B**1
+
+> Good Luck to everyone registered on this courses!
+>> he-h-e-he-h-e

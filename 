@@ -1,0 +1,29 @@
+[33mcommit 04d61868e66444d0216d14acd4dc8b5dd9877b12[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m)[m
+Author: jsemenborodas <jsemenborodas@gmail.com>
+Date:   Fri Nov 8 13:55:43 2024 +0300
+
+    docs: update cv.md
+
+[33mcommit 6582876b5e520550c3adc35f0d6750c16be522d2[m
+Author: jsemenborodas <jsemenborodas@gmail.com>
+Date:   Fri Nov 8 13:53:41 2024 +0300
+
+    docs: update README.md with additional information
+
+[33mcommit 8f87d5366dd7351c3e5afe5d5cb7992c833f2ee1[m
+Author: jsemenborodas <jsemenborodas@gmail.com>
+Date:   Fri Nov 8 13:50:27 2024 +0300
+
+    docs: update cv.md with additional information
+
+[33mcommit be8925fc308f5536c6a75cddeebac4b8436e8704[m
+Author: jsemenborodas <jsemenborodas@gmail.com>
+Date:   Fri Nov 8 13:36:45 2024 +0300
+
+    add: cv.md
+
+[33mcommit a5c8f519677b745830e00c31a7d657630c42ab29[m[33m ([m[1;32mmaster[m[33m)[m
+Author: jsemenborodas <jsemenborodas@gmail.com>
+Date:   Fri Nov 8 13:27:06 2024 +0300
+
+    init: start project
