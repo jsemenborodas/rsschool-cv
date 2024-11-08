@@ -1,0 +1,262 @@
+/*default settings*/
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+}
+
+a, a:active, a:disabled{
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFEAAE;
+}
+
+a:hover{
+    color: #d2a835;
+    transition-duration: 1s;
+}
+/*header-settings*/
+
+.header__wrapper{
+    background-image: url('imgs/background2.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo{
+    max-width: 150px;
+    max-height: 150px;
+    margin: 0em auto 0px auto;
+}
+
+.logo__heading{
+    margin: 0 auto;
+    max-width: 250px;
+    color: #ffff;
+    text-align: center;
+}
+
+.logo__heading__profession{
+    margin-top: 0.5em;
+    padding-bottom: 1em;
+    color: #FFEAAE;
+}
+.logo-img{
+    border-radius: 50%;
+}
+
+/* main */
+
+.main__wrapper{
+    background: gray;
+}
+
+.main__inner{
+    padding-top: 3em;
+    position: relative;
+    overflow: visible;
+}
+.profile{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid black;
+    margin-bottom: 2em;
+    border-top: 0px;
+}
+.profile__heading__h2{
+    width: 500px;
+    z-index: 2;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-bottom: 0;
+    text-align: center;
+    position: relative;
+    overflow: visible;
+}
+
+.profile__h2{
+    overflow: visible;
+    border: 1px solid black;
+    width: 25%;
+    margin: 0 auto;
+    transform: translateY(-60%);
+    background-color: #FFEAAE;
+    position: relative;
+}
+
+.profile__h2 h2{
+    font-size: 20px;
+    z-index: 13;
+}
+
+.lines{
+    height: 1px;
+    width: 10%;
+    z-index: 11;
+    position: absolute;
+    top: 55%;
+    border-top: 2px solid black;
+}
+
+.lines_2{
+    left: 90%;
+}
+
+
+.main__content{
+    width: 80%;
+    min-height: 1500px;
+    margin: 0 auto;
+    display: flex;
+    gap: 3%;
+}
+
+.left_side_content{
+    width: 45%;
+    max-height: 1400px;
+}
+
+.right_side_content{
+    width: 45%; 
+    max-height: 1400px;
+
+}
+
+.main__content__heading{
+    width: 50%;
+    height: 32px;
+    margin: 0 auto;
+    background: #FFEAAE;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.main__content__heading h2{
+    padding-top: 3%;
+    font-size: 15px;
+}
+
+
+.line{
+    width: 4px;
+    max-height: 1400px;
+    background: black;
+}
+
+.main__content__content{
+    border-top: 2px solid black;
+    margin-bottom: 5em;
+    padding: 2em;
+    padding-left: 3em;
+}
+
+.contact__details__content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.main__content__content a{
+ max-width: 100px;   
+}
+.main__content__content a img{
+    width: 20px;
+    transform: translate(-6px, 4px)
+}
+
+.projects__content a img{
+    width: 100%;
+}
+
+.professional__experience__content h2{
+    text-align: right;
+    color: #FFEAAE;
+}
+
+.professional__experience__content ul{
+    text-align: left;
+    font-size: 17px;
+}
+
+.skills__content{
+    margin: 0 auto;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: thistle;
+    text-align: center;
+    margin-bottom: 50px;
+    animation-name: circleMove;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.text__in__circle{
+    margin-top: 20%;
+}
+
+@keyframes circleMove {
+    0%{transform: translateX(400px);}
+    49%{transform: translateX(0px);}
+    51%{transform: translateX(0px);}
+    100%{transform: translateX(400px);}
+}
+
+/*footer*/
+footer{ 
+    min-width: 100%;
+    min-height: 50px;
+    background-color: gray;
+    display: flex;
+}
+.copyright{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.rs-school{
+    width: 50px;
+    margin: 0 auto;
+}
+
+.rs-school:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.github{
+    margin-right: 40px;
+}
+.github a{
+    color: black;
+}
+.github:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.heading__6{
+    text-align: right;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.heading__6__p{
+    margin-top: 20px;
+    font-size: 17px;
+}
