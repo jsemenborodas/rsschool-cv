@@ -1,17 +1,17 @@
 # JSemenBorodaS
-## contancts: 
+## contancts:
 * ## [telegram](t.me/Xisuy)
 * ## [gmail](jsemenborodas@gmail.com)
 * ## discord: jsemenborodas_99601
-### My goals on this course is develop my hard and soft skills. 
+### My goals on this course is develop my hard and soft skills.
 
-### **_Skills_**: 
+### **_Skills_**:
 * ### JavaScript
 * ### CSS
 * ### HTML
 * ### GIT
 
-### **_Code examples_**: 
+### **_Code examples_**:
 `module.exports = function reverse (n) {`
 
   `n = String(Math.abs(n));`
@@ -28,8 +28,8 @@
 
 
 ### **_Work Experience_**: [shelter](https://jsemenborodas.github.io/shelter-private/shelter/)
-### _Education_: 
-* ### *Rs-school stage-0* 
+### _Education_:
+* ### *Rs-school stage-0*
 * ### _Some js-courses_
 
 ### English language level: **B**1
