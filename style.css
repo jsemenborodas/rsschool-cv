@@ -1,5 +1,4 @@
 /*default settings*/
-
 *{
     box-sizing: border-box;
     margin: 0;
@@ -169,11 +168,11 @@ a:hover{
     gap: 20px;
 }
 .main__content__content a{
- max-width: 100px;
+    max-width: 100px;
 }
 .main__content__content a img{
     width: 20px;
-    transform: translate(-6px, 4px)
+    transform: translate(-6px, 4px);
 }
 
 .projects__content a img{
