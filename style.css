@@ -130,7 +130,7 @@ a:hover{
 }
 
 .right_side_content{
-    width: 45%; 
+    width: 45%;
     max-height: 1400px;
 
 }
@@ -169,7 +169,7 @@ a:hover{
     gap: 20px;
 }
 .main__content__content a{
- max-width: 100px;   
+ max-width: 100px;
 }
 .main__content__content a img{
     width: 20px;
@@ -218,7 +218,7 @@ a:hover{
 }
 
 /*footer*/
-footer{ 
+footer{
     min-width: 100%;
     min-height: 50px;
     background-color: gray;
