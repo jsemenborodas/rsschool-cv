@@ -18,11 +18,14 @@ img{
 
 a, a:active, a:disabled{
     text-decoration: none;
-    color: black;
     font-size: 18px;
     color: #FFEAAE;
 }
 
+a:hover{
+    color: #d2a835;
+    transition-duration: 1s;
+}
 /*header-settings*/
 
 .header__wrapper{
@@ -181,6 +184,33 @@ a, a:active, a:disabled{
 .professional__experience__content ul{
     text-align: left;
     font-size: 17px;
+}
+
+.skills__content{
+    margin: 0 auto;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: thistle;
+    text-align: center;
+    margin-bottom: 50px;
+    animation-name: circleMove;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.text__in__circle{
+    margin-top: 20%;
+}
+
+@keyframes circleMove {
+    0%{transform: translateX(400px);}
+    49%{transform: translateX(0px);}
+    51%{transform: translateX(0px);}
+    100%{transform: translateX(400px);}
 }
 
 /*footer*/
